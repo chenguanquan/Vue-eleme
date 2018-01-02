@@ -1,5 +1,5 @@
 # sell
-1、克隆到本地，打开命令行或者git
+1、克隆到本地，打开命令行或者git <br />
 2、输入以下步骤：
   npm install
   npm run dev
